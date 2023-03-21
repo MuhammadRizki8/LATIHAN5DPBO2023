@@ -41,14 +41,18 @@ Method:
 ------------------------------------------
 ### Dokumentasi
 - tampilan awal
+- 
 ![image](https://user-images.githubusercontent.com/100481579/226528155-f7bd5bbd-2a4b-4936-8208-5f1634307421.png)
 
 - Add data
+- 
 ![image](https://user-images.githubusercontent.com/100481579/226528245-48faeb43-5cb4-4920-b1e6-af39b4de760e.png)
 
 - Update data
+- 
 ![image](https://user-images.githubusercontent.com/100481579/226528340-128d3e5c-ca3c-4fd9-a40e-9e82e290014a.png)
 
 - Delete data
+- 
 ![image](https://user-images.githubusercontent.com/100481579/226528424-3fe61bd4-a4ea-4984-ad4c-0065faaad808.png)
 
